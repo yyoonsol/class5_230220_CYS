@@ -9,6 +9,7 @@
 <body>
 <h1>
 	spring 디렉토리 삭제 후 변경
+	commit 하고, push 하고, 한단계 revert하기
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
